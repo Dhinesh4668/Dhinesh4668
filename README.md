@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm DhineshKumar`</h1>
-<h3 align="center">A passionate BACKEND and MobileApp developer from INDIA</h3>
+<h1 align="center">Hi hello👋, I'm DhineshKumar Thirupathi`</h1>
+<h3 align="center">A passionate Full-Stack Developer and MobileApp Developer from INDIA</h3>
 
-- 🔭 I’m currently working on **Decentralize Social media Project**
+- 🌱 I’m currently learning **REACTNATIVE, MERN , Docker, GitOPS**
 
-- 🌱 I’m currently learning **REACTNATIVE, NODEJS and Docker**
-
-- 👯 I’m looking to collaborate on **open Source**
+- 👯 I’m looking to collaborate on **open Source Softwars**
 
 - 🤝 I’m looking for help with **Open-source**
 
 - 👨‍💻 My Portfolio [dhineshkumar.vercel.app](dhineshkumar.vercel.app)
 
-- 💬 Ask me about **nodejs React**
+- 💬 Ask me about **nodejs, React & ReactNative**
 
 - 📫 How to reach me 
 *dhinesh4668@outlook.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhineshkumar-thirupathi-00aa8b1a5/?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhineshkumar-thirupathi-00aa8b1a5/?originalsubdomain=in" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhineshkumar-thirupathi-00aa8b1a5/?originalsubdomain=in" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhineshkumar-thirupathi-00aa8b1a5/?originalsubdomain=in" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
