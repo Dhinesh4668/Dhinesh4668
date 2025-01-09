@@ -1,16 +1,12 @@
 <h1 align="center">Hi there 👋, I'm DhineshKumar Thirupathi</h1>
-<h3 align="center">A passionate Full-Stack Developer and Mobile App Developer from India</h3>
+<h3 align="center">A passionate Mobile App Developer from India</h3>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTczOXg4a2JqZWw0bGZsd3B4NGtlNTM4Nng2dW00MXd1bjc3MDc2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif" width="300" alt="Coding Animation" />
-</p>
-
-- 🌱 I’m currently learning **React Native**, **MERN**, **Docker**, and **GitOps**.
+- 🌱 I’m currently learning **React Native**, **GOLANG**, **Docker**, and **GitOps**.
 - 👯 I’m looking to collaborate on **open-source software**.
 - 🤝 I’m open to helping with **open-source projects**.
-- 👨‍💻 Check out my portfolio: [dhineshkumar.vercel.app](https://dhineshkumar.vercel.app)
-- 💬 Ask me about **Node.js**, **React**, and **React Native**.
-- 📫 How to reach me: [dhinesh4668@outlook.com](mailto:dhinesh4668@outlook.com)
+- 👨‍💻 Check out my portfolio: [Portfolio](https://dhinesh-4668.web.app/)
+- 💬 Ask me about **GoLang**, **ReactNative**,  **android** and **React**.
+- 📫 How to reach me: [Mail 📫](mailto:dhinesh4668@outlook.com)
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -34,17 +30,3 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
-
-<h3 align="left">🚀 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhinesh4668&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhinesh4668&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<h3 align="left">📈 Contribution Graph:</h3>
-<p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dhinesh4668&theme=react-dark" alt="Contribution Graph" />
-</p>
-
-<p align="center">Feel free to explore my repositories and connect with me!</p>
